@@ -1,13 +1,33 @@
-# ashleywillis
+# ✨ ashleywillis.dev ✨
 
-> Ashley Willis' terminal business card
+```ascii
+ █████╗ ███████╗██╗  ██╗██╗     ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║  ██║██║     ██╔════╝╚██╗ ██╔╝
+███████║███████╗███████║██║     █████╗   ╚████╔╝ 
+██╔══██║╚════██║██╔══██║██║     ██╔══╝    ╚██╔╝  
+██║  ██║███████║██║  ██║███████╗███████╗   ██║   
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   
+```                                                  
 
-## Usage
+> 💻 Ashley Willis' terminal business card 🖥️
+
+## 🚀 Usage
+
+Fire up your favorite terminal and run:
 
 ```bash
-npx ashleywillis
+$ npx ashleywillis
+# Watch the magic happen! (⌐■_■)
 ```
 
-## Credits
+## 🧪 Tech Specs
 
-Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang)
+Built with `Node.js` and a sprinkle of terminal wizardry! ✨
+
+## 🔌 Credits 
+
+Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang) <(￣︶￣)>
+
+## 🤓 Fun Fact
+
+Did you know? This business card is actually executable JavaScript! 
