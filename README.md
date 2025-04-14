@@ -31,3 +31,7 @@ Inspired by [Tierney Cyren's bitandbang](https://github.com/bnb/bitandbang) <(�
 ## 🤓 Fun Fact
 
 Did you know? This business card is actually executable JavaScript! 
+
+## 📄 License
+
+MIT

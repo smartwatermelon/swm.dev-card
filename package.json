@@ -1,6 +1,6 @@
 {
   "name": "ashleywillis",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "Ashley Willis' terminal business card",
   "main": "bin.js",
   "bin": {
