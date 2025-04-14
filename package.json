@@ -1,0 +1,25 @@
+{
+  "name": "ashleywillis",
+  "version": "1.0.0",
+  "description": "Ashley Willis' terminal business card",
+  "main": "bin.js",
+  "bin": {
+    "ashleywillis": "./bin.js"
+  },
+  "scripts": {
+    "start": "node bin.js"
+  },
+  "keywords": [
+    "cli",
+    "business-card",
+    "npx"
+  ],
+  "author": "Ashley Willis <ashley@ashley.dev> (https://ashley.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
