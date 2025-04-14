@@ -10,7 +10,7 @@ ${chalk.gray('Open Source Advocate · Speaker · Maker · Mom')}
 ${chalk.white('Website:')} ${chalk.underline('https://ashley.dev')}
 ${chalk.white('Bluesky:')} @ashley.dev
 ${chalk.white('GitHub:')} ${chalk.underline('https://github.com/ashleymcnamara')}
-${chalk.white('Email:')} ${chalk.underline('ashley@ashley.dev')}
+${chalk.white('Email:')} ${chalk.underline('hello@ashley.dev')}
 
 Run ${chalk.yellow('npx ashleywillis')} anytime to see this again.
 `);

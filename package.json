@@ -14,7 +14,7 @@
     "business-card",
     "npx"
   ],
-  "author": "Ashley Willis <ashley@ashley.dev> (https://ashley.dev)",
+  "author": "Ashley Willis <hello@ashley.dev> (https://ashley.dev)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2"
