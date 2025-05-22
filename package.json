@@ -1,10 +1,10 @@
 {
   "name": "andrewrich",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Andrew Rich's terminal business card - Principal SRE specializing in automation and compliance",
   "main": "bin.js",
   "bin": {
-    "andrewrich": "./bin.js"
+    "andrewrich": "bin.js"
   },
   "scripts": {
     "start": "node bin.js",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrewrich/npx-card"
+    "url": "git+https://github.com/andrewrich/npx-card.git"
   },
   "homepage": "https://linkedin.com/in/andrewrich"
 }
