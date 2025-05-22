@@ -1,25 +1,37 @@
 {
-  "name": "ashleywillis",
-  "version": "1.2.0",
-  "description": "Ashley Willis' terminal business card",
+  "name": "andrewrich",
+  "version": "1.0.0",
+  "description": "Andrew Rich's terminal business card - Principal SRE specializing in automation and compliance",
   "main": "bin.js",
   "bin": {
-    "ashleywillis": "./bin.js"
+    "andrewrich": "./bin.js"
   },
   "scripts": {
-    "start": "node bin.js"
+    "start": "node bin.js",
+    "test": "node bin.js"
   },
   "keywords": [
     "cli",
     "business-card",
-    "npx"
+    "npx",
+    "sre",
+    "site-reliability-engineering",
+    "automation",
+    "devops",
+    "fedramp",
+    "compliance"
   ],
-  "author": "Ashley Willis <hello@ashley.dev> (https://ashley.dev)",
+  "author": "Andrew Rich <andrew.rich@gmail.com> (https://linkedin.com/in/andrewrich)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2"
   },
   "engines": {
     "node": ">=10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewrich/npx-card"
+  },
+  "homepage": "https://linkedin.com/in/andrewrich"
 }
